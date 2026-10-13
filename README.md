@@ -2,7 +2,7 @@
 
 Informe sobre el desempeño de la economía argentina durante 2025: actividad, precios, sector fiscal, monetario, externo, tipo de cambio, mercado de trabajo y deuda pública. Elaboración propia con datos de INDEC y BCRA.
 
-📄 **[Leer el informe (PDF)](informe-macro-argentina-2025.pdf)**
+📄 **[Leer el informe (PDF)](informe-macro-2025.pdf)**
 
 ## Resumen
 
@@ -39,12 +39,3 @@ Elaboración propia en base a datos de:
 
 - INDEC (Instituto Nacional de Estadística y Censos)
 - BCRA (Banco Central de la República Argentina)
-
-## Autores
-
-- **Marco Diaz de Sosa** · Estudiante de Economía (UNLP) · [LinkedIn](https://www.linkedin.com/in/marco-diaz-de-sosa)
-- **Santiago Vidal**
-
-## Licencia
-
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es) — podés compartir y adaptar el informe citando a los autores.
